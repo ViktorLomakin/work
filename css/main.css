@@ -1,0 +1,123 @@
+/* Index.php */
+#index_title {
+    font-size: 24px;
+    margin-left: 20%;
+}
+/* Header elements */
+#index_add_entries {
+    margin-left: 60%;
+}
+
+#status {
+    margin-left: 40%;
+}
+
+#posts {
+    font-size: 24px;
+    margin-left: 20%;
+}
+
+#content {
+    margin-left: 20%;
+}
+
+#date {
+    color: #A08282;
+}
+
+#name {
+    margin-top: 3px;
+    font-size: 24px;
+}
+
+#link {
+    text-decoration: none;
+    color: #2a7ae2;
+}
+
+
+
+/* Add.php */
+#add_title {
+    margin-left: 42%;
+    margin-bottom: 30px;
+}
+
+#add_input {
+    margin-left: 40%;
+}
+
+/* Detail.php */
+
+#detail_title {
+    font-size: 24px;
+    margin-left: 20%;
+}
+
+#detail_date {
+    color: #A08282;
+    font-size: 14px;
+}
+
+#detail_content {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
+
+#add_comments {
+    margin-left: 5%;
+    margin-bottom: 30px;
+}
+
+#title_comments {
+    margin-left: 4%;
+}
+
+#comment_submit {
+    margin-left: 5%;
+}
+
+#comment_update {
+    margin-left: 5%;
+}
+
+#area_comments {
+    width: 30%;
+    margin-left: 5%;
+}
+
+#commentAuthor {
+    font-size: 12px;
+    color: #A08282;
+}
+
+#userComment {
+    font-size: 24px;
+}
+#commentBlock {
+    margin-left: 5%;
+}
+
+#edit_comment {
+    margin-left: 5%;
+}
+
+#delete_comment {
+    margin-left: 0%;
+}
+
+#delete_entries {
+    margin-left: 0%;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+/* edit.php */
+#sel1 {
+    width: 10%;
+    margin-left: 43%;
+}
